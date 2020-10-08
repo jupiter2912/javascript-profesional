@@ -51,7 +51,7 @@ function pares(el){
 list.filter(pares);
 
 //funcion que me diga los pares y los impares
-function oddOrEven(oddOk){
+function oddOrEven(oddOk){ //funcion par o impar
 
     //odd es par por lo tanto true
     return oddOk
